@@ -1,0 +1,2 @@
+# aprendizado
+ tecnologias diversas
